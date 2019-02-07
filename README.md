@@ -1,4 +1,4 @@
-# test app
+# test app demo
 
 [![FOSSA Status][fossa-status-image]][fossa-status-url]
 [![Build Status][travis-image]][travis-url]
